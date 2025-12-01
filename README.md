@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+ 👀 I’m interested in a bit of everything in CS!
+ 🌱 I'm currently buuilding a metroidvania Game! 
+ 🪴 I have experience in Python, C and multiple other langauges, that I want to explore more of! 
+ 💞️ I’m looking to collaborate and learn more so I can contribute to the wider world of FOSS!
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_av.co) 
