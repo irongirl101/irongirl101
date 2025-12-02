@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+ > 👀 I’m interested in a bit of everything in CS!  
+ > 🌱 I'm currently buuilding a metroidvania Game!   
+ > 🪴 I have experience in Python, C and multiple other langauges, that I want to explore more of!   
+ > 💞️ I’m looking to collaborate and learn more so I can contribute to the wider world of FOSS!  
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_av.co) 
@@ -10,6 +13,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=irongirl101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=irongirl101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irongirl101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# Github Skyline 2024-25
+                        2024                         
+
+                                                .... 
+                                                .... 
+                   ╻                            .... 
+                  ┃░                       ┃╻   .....
+                  ░░                       ░░╻╻ .....
+                 ╻░░╻                      ▒░░░  ....
+        ░       ░░░░░░       ░           ░▓▒░░░░▓....
+
+                     irongirl101                     
+                        2025                         
+
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irongirl101&theme=radical&no-frame=true&no-bg=false&margin-w=4)
