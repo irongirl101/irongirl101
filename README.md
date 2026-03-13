@@ -1,7 +1,6 @@
 ## Hi there 👋
  > 👀 I’m interested in a bit of everything in CS!  
  > 🌱 I'm currently building a metroidvania Game, and learning swift!
- 
  > 🪴 I have experience in Python, C and multiple other langauges, that I want to explore more of!   
  > 💞️ I’m looking to collaborate and learn more so I can contribute to the wider world of FOSS!  
 
