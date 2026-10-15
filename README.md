@@ -4,12 +4,12 @@
  > 🪴 I have experience in Python, C and multiple other langauges, that I want to explore more of!  
  > 💞️ I’m looking to collaborate and learn more so I can contribute to the wider world of FOSS!           
 
+<img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=pet" width="700" height="150">
+
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_av.co) 
 
 <img src = "https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1" width="700" height="500">
-
-<img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=pet" width="700" height="150">
 
 <img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=langs" width="700" height="400">
 
