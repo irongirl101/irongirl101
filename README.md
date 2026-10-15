@@ -9,7 +9,7 @@
 
 <img src = "https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1" width="700" height="500">
 
-<img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=pet" width="700" height="500">
+<img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=pet" width="700" height="300">
 
 <img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=langs" width="700" height="400">
 
