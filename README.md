@@ -9,7 +9,7 @@
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/_av.co) 
 
-<img src = "https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1" width="700" height="450">
+<img src = "https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1" width="600" height="450">
 
 <img src="https://prsdx.yourtomo.workers.dev/preview?username=irongirl101&theme=dark&type=langs" width="700" height="400">
 
