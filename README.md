@@ -9,6 +9,7 @@
 
 ![ASCII avatar](https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1)
 
+<img src = "https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1" width="48">
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irongirl101&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
