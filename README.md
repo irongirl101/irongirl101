@@ -9,8 +9,6 @@
 
 ![ASCII avatar](https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=irongirl101&theme=mac&color=1)
 
-![GitHub neofetch](https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=YOUR_GITHUB_ID&theme=mac&color=1)
-
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irongirl101&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
