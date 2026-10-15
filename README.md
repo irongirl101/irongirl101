@@ -1,4 +1,4 @@
-[ascii-art.txt](https://github.com/user-attachments/files/33475739/ascii-art.txt)## Hi there 👋
+## Hi there 👋
  > 👀 I’m interested in a bit of everything in CS!             
  > 🌱 I'm currently building a metroidvania Game, and learning swift!                             
  > 🪴 I have experience in Python, C and multiple other langauges, that I want to explore more of!  
